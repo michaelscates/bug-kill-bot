@@ -60,12 +60,4 @@ Results are sent back into the Discord channel as a message block.
 
 MIT License – see the LICENSE file for details.
 
----
-
-Let me know if you'd like extra sections like:
-- FAQ
-- Custom commands
-- Supported test runners (pytest, jest, etc.)
-
-Or if you're planning to support multiple languages later (e.g. JS/Node, Go).
 
